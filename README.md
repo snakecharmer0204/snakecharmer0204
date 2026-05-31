@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hannes Kurgpold
+# Hi there 👋 I'm a Senior Backend Engineer
 
 <div align="center">
 
@@ -45,56 +45,6 @@ PostgreSQL, MySQL, Redis, MongoDB, Elasticsearch, OpenSearch, AWS S3
 ## Cloud & DevOps
 
 AWS, Docker, Kubernethes, Terraform, GiuHub Actions, RabbitMQ, Celery, Linnux
-
----
-
-# 💼 Professional Experience
-
-## Senior Backend Engineer — Neoteric (2024 — Present)
-
-### Highlights
-
-* Built GDPR-compliant backend systems for mental health diagnostics platforms
-* Developed scalable FastAPI architectures with PostgreSQL and Redis
-* Designed event-driven systems using RabbitMQ and Elasticsearch
-* Implemented OAuth2 & JWT authentication flows
-* Delivered production-ready MVPs within aggressive timelines
-* Improved platform reliability through automated testing and CI/CD
-
----
-
-## Senior Backend Developer — hafencity.dev (2021 — 2024)
-
-### Highlights
-
-* Architected real-time logistics analytics platforms
-* Built ETL pipelines handling millions of records
-* Optimized PostgreSQL queries for sub-second performance
-* Designed asynchronous workflows with Celery
-* Containerized services using Docker & Kubernetes
-
----
-
-## Backend Developer — Loovatech (2019 — 2021)
-
-### Highlights
-
-* Developed enterprise DAM SaaS systems
-* Built multi-tenant APIs with Django REST Framework
-* Integrated AI-based media processing pipelines
-* Managed scalable AWS infrastructure deployments
-* Implemented advanced Elasticsearch search systems
-
----
-
-## Junior Backend Developer — Thorgate (2016 — 2019)
-
-### Highlights
-
-* Built scalable e-commerce backend systems
-* Integrated payment and logistics providers
-* Optimized database performance and caching
-* Improved platform observability and monitoring
 
 ---
 
