@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1600&auto=format&fit=crop" alt="Backend Engineering Banner" width="100%" />
+<img width="248" height="200" alt="Frustrated_programmer_qeR3D5O" src="https://github.com/user-attachments/assets/6485cd4a-95a7-4476-bb08-0fc03058fb92" />
+<p>🤣🤣🤣🤣🤣🤣🤣</p>
 
 </div>
 
